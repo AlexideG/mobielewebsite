@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #07553B;
+    color: #CED46A;
+}
+
+h2 {
+    padding-top: 20px;
+    color: #CED46A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: medium;
+    margin-bottom: 30px;
+    margin: 10px;
+    padding: 10px;
+    color: #07553B;
+    border-style: solid;
+    border-color: #000;
+    background-color: #CED46A;
+}
+
+ul {
+    display: flex;
+    font-size: large;
+    background-color: #CED46A;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-between;
+    list-style-type: none;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main div {
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+header a {
+    color: #07553B;
+    border: 20px;
+    border-radius: 20px;
+    border: #5F464B;
+}
+
+main a {
+    font-size: large;
+    border-style: solid;
+    border-color: #000;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #07553B;
+    background-color: #CED46A;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+main {
+    background-color: #07553B;
+}
