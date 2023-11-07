@@ -95,6 +95,8 @@ main ul {
     border-radius: 5px;
     border-style: solid;
     border-color: #000;
+    color: #07553B;
+    font-weight: bold;
 }
 
 footer {
