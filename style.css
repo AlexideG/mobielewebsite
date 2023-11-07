@@ -34,12 +34,23 @@ main {
     background-color: #CED46A;
 }
 
+main img {
+    margin-left: 65px;
+    height: 140px;
+    width: 250px;
+}
+
 main h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 20px;
     padding-bottom: 30px;
     text-align: center;
     color: #07553B;
+}
+
+section h2 {
+    padding: 10px;
+    font-size: large;
 }
 
 main p {
