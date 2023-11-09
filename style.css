@@ -53,6 +53,12 @@ section h2 {
     font-size: large;
 }
 
+main div hr {
+    color: #CED46A;
+    background-color: #CED46A;
+    height: 10px;
+}
+
 main p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #07553B;
@@ -68,15 +74,15 @@ main p {
 }
 
 main hr {
-    background-color: #CED46A;
-    color: #CED46A;
+    background-color: #07553B;
+    color: #07553B;
     border-style: none;
     height: 20px;
 }
 
 main a {
-    background-color: #07553B;
-    color: #CED46A;
+    background-color: #CED46A;
+    color: #07553B;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 5px;
     border-style: solid;
@@ -90,25 +96,21 @@ main ul {
     list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    margin: 5px;
+    margin: 20px;
     padding: 5px;
     border-radius: 5px;
     border-style: solid;
     border-color: #000;
-    color: #07553B;
+    background-color: #07553B;
+    color: #CED46A;
     font-weight: bold;
-}
-
-footer {
-    border-radius: 5px;
-    border-style: solid;
-    border-color: #000;
+    margin-bottom: 10px;
 }
 
 footer img {
     height: 70px;
     width: 48px;
-   margin-top: -30px;
+    margin-top: -30px;
 }
 
 hr footer {
@@ -122,6 +124,10 @@ hr footer {
 footer a {
     color: #000;
     padding: 20px;
+}
+
+li div {
+    margin-bottom: 10px;
 }
 
 footer ul {
